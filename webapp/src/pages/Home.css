@@ -1,0 +1,40 @@
+  body {
+    font: 14px/22px "Lato", Arial, sans-serif;
+    background: #6394F8;
+  }
+ 
+  .nav-container {
+    margin: 0px 0px ;
+    padding: 0px 0px;
+    width: 100%;
+    height: 70px;
+    position: fixed;
+    z-index: 10;
+    background-color: white;
+  }
+
+  .navbar-right {
+      float: right;
+      margin-right: 20px;
+  }
+
+  .navbar-left {
+      float: left;
+  }
+
+  .badge {
+    background-color: #6394F8;
+    border-radius: 10px;
+    color: white;
+    display: inline-block;
+    font-size: 12px;
+    line-height: 1;
+    padding: 3px 7px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+  }
+  
+  
+ 
+ 
